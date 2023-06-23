@@ -1,0 +1,28 @@
+{
+    "login" :"login",
+    "app name" :"pharmacy",
+    "email":"Email",
+    "required value":"required value",
+    "password":"password",
+    "forget password":"forget Password?",
+    "have no account":" have no account",
+    "create account":" create account",
+    "number":"Enter Number",
+    "next":"Next",
+    "send again":"send again",
+    "new password":"New Password",
+    "confirm password":"Confirm Password",
+    "done":"Done",
+    "reset new password":"forget password",
+    "name":"Name",
+    "phone number":"Phone Number",
+    "adrress":"Adrress",
+    "search":"Search",
+    "categories":"categories",
+    "Pharmacies near you":"Pharmacies near you",
+    "offers":"50% Offers",
+    "more":"More"
+    
+
+
+}

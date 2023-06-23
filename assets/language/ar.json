@@ -1,0 +1,27 @@
+{
+    "login" :"تسجيل دخول",
+    "app name" :"صيدليتي",
+    "email":"البريد الاكتروني",
+    "required value":"يجب ادخال قيمه",
+
+    "password":"كلمه المرور",
+    "forget password":"نسيت كلمه المرور؟",
+    "have no account":"ليس لديك حساب",
+    "create account":"انشاء حساب",
+    "number":"رقم الهاتف",
+    "next":"التالي",
+    "send again":"اعاده ارسال الرمز",
+    "new password":"كلمه مرور جديده",
+    "confirm password":"تاكيد كلمه المرور",
+    "done":"انتهيت",
+    "reset new password":"نسيت كلمه السر",
+    "name":"الاسم",
+    "phone number":"رقم الهاتف",
+    "adrress":"العنوان",
+    "search":"بحث",
+    "categories":"الفئات",
+    "Pharmacies near you":"الصيدليات القريبه اليك",
+    "offers":"عروض 50%",
+    "more":"المذيد"
+
+}
